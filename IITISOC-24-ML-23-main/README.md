@@ -1,4 +1,4 @@
-# IITIDOC-24-ML-23
+# IITISOC-24-ML-23
 <h1>Team details: </h1>
 
 <b>Team leader<b>: Kshithij Singhania <br>
